@@ -1,0 +1,74 @@
+advocate,noun,a person who publicly supports or recommends a particular cause or policy.
+aide,noun,an assistant to an important person&com especially a political leader.
+akin,adjective,of similar character.
+amalgamation,noun,the action&com process&com or result of combining or uniting.
+buoyancy,noun,the ability or tendency to float in water or air or some other fluid.
+bureaucracy,noun,a system of government in which most of the important decisions are made by state officials rather than by elected representatives.
+burgeoning,adjective,beginning to grow or increase rapidly; flourishing.
+compassion,noun,sympathetic pity and concern for the sufferings or misfortunes of others.
+compromise,noun,an agreement or a settlement of a dispute that is reached by each side making concessions.
+conceive,verb,become pregnant with (a child).
+concession,noun,a thing that is granted&com especially in response to demands; a thing conceded.
+condone,verb,accept and allow (behavior that is considered morally wrong or offensive) to continue.
+confine,verb,keep or restrict someone or something within certain limits of (space&com scope&com quantity&com or time).
+consensus,noun,a general agreement.
+consolidation,noun,the action or process of making something stronger or more solid.
+cordial,adjective,warm and friendly.
+culminate,verb,reach a climax or point of highest development.
+deceased,adjective,dead; no longer living.
+deficiency,noun,a lack or shortage.
+deficit,noun,the amount by which something&com especially a sum of money&com is too small.
+demarcate,verb,set the boundaries or limits of.
+demise,noun,a person's death.
+differential,noun,a difference between amounts of things.
+dilemma,noun,a situation in which a difficult choice has to be made between two or more alternatives&com especially equally undesirable ones.
+discourse,noun,written or spoken communication or debate.
+disorienting,adjective,causing someone to lose their sense of direction.
+distinctly,adverb,in a way that is readily distinguishable by the senses; clearly.
+doctrine,noun,a belief or set of beliefs held and taught by a Church&com political party&com or other group.
+dote,verb,be extremely and uncritically fond of.
+facilitate,verb,make (an action or process) easy or easier.
+fond,adjective,having an affection or liking for.
+foremost,adjective,most prominent in rank&com importance&com or position.
+haphazardly,adverb,in a manner lacking any obvious principle of organization.
+hinder,verb,create difficulties for (someone or something)&com resulting in delay or obstruction.
+humanitarian,adjective,concerned with or seeking to promote human welfare.
+incentive,noun,a thing that motivates or encourages one to do something.
+inclination,noun,a person's natural tendency or urge to act or feel in a particular way; a disposition or propensity.
+intimidate,verb,frighten or overawe (someone)&com especially in order to make them do what one wants.
+intrinsic,adjective,belonging naturally; essential.
+intuition,noun,the ability to understand something immediately&com without the need for conscious reasoning.
+intuitive,adjective,using or based on what one feels to be true even without conscious reasoning; instinctive.
+leisure,noun,free time.
+liberal,adjective,willing to respect or accept behavior or opinions different from one's own; open to new ideas.
+longevity,noun,long life.
+luminary,noun,a person who inspires or influences others&com especially one prominent in a particular sphere.
+mortuary,noun,a funeral home or morgue.
+optimistic,adjective,hopeful and confident about the future.
+patron,noun,a person who gives financial or other support to a person&com organization&com cause&com or activity.
+predecessor,noun,a person who held a job or office before the current holder.
+prevail,verb,prove more powerful than opposing forces; be victorious.
+progressive,adjective,happening or developing gradually or in stages; proceeding step by step.
+prominent,adjective,important; famous.
+prose,noun,written or spoken language in its ordinary form&com without metrical structure.
+prosthesis,noun,an artificial body part&com such as a leg&com a heart&com or a breast implant.
+proximity,noun,nearness in space&com time&com or relationship.
+rapport,noun,a close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.
+redundant,adjective,not or no longer needed or useful; superfluous.
+refined,adjective,with impurities or unwanted elements having been removed by processing.
+repertoire,noun,a stock of skills or types of behavior that a person habitually uses.
+retain,verb,continue to have (something); keep possession of.
+retrospect,noun,a survey or review of a past course of events or period of time.
+scholar,noun,a specialist in a particular branch of study&com especially the humanities; a distinguished academic.
+scholarship,noun,academic study or achievement; learning of a high level.
+simulacrum,noun,an image or representation of someone or something.
+sovereign,noun,a supreme ruler&com especially a monarch.
+subservient,adjective,prepared to obey others unquestioningly.
+superfluous,adjective,unnecessary&com especially through being more than enough.
+surplus,noun,an amount of something left over when requirements have been met; an excess of production or supply over demand.
+tedious,adjective,too long&com slow&com or dull; tiresome or monotonous.
+triumph,noun,a great victory or achievement.
+undermine,verb,lessen the effectiveness&com power&com or ability of&com especially gradually or insidiously.
+unrelenting,adjective,not yielding in strength&com severity&com or determination.
+verbalize,verb,express (ideas or feelings) in words&com especially by speaking out loud.
+vogue,noun,the prevailing fashion or style at a particular time.
